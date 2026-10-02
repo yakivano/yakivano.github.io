@@ -3,7 +3,7 @@
 3:I[2848,["311","static/chunks/311-49babc10ec153973.js","288","static/chunks/app/projects/sber/page-63ab0eb8ff30ec2a.js"],"default"]
 6:I[9460,[],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"RrRlagl_1Es68t3ZR5Ukn","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"Wgt9xvBdus3H2GzdXC0hm","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
